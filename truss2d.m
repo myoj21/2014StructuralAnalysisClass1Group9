@@ -1,4 +1,4 @@
-% 2D Truss
+% 2D Truss Origin
 
 
 [ior] = fopen('input.txt', 'rt');  % 파일 읽기
